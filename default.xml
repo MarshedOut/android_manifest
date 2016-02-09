@@ -58,6 +58,7 @@
   <project path="frameworks/support" name="MarshedOut/android_frameworks_support" groups="pdk-cw-fs,pdk-fs" remote="github" revision="android-6.0" />
   <project path="libnativehelper" name="MarshedOut/android_libnativehelper" groups="pdk" remote="github" revision="android-6.0" />
   <project path="ndk" name="MarshedOut/android_ndk" groups="generic_fs" remote="github" revision="android-6.0" />
+  <project path="packages/apps/Chromium" name="MarshedOut/android_packages_apps_Chromium" groups="pdk-fs" remote="github" revision="android-6.0" />
   <project path="packages/apps/Settings" name="MarshedOut/android_packages_apps_Settings" groups="pdk-fs" remote="github" revision="android-6.0" />
   <project path="prebuilts/ndk" name="MarshedOut/android_prebuilts_ndk" groups="pdk" clone-depth="1" remote="github" revision="android-6.0" />
   <project path="system/core" name="MarshedOut/android_system_core" groups="pdk" remote="github" revision="android-6.0" />
