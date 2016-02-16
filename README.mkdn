@@ -9,7 +9,7 @@ familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the MarshedOut trees, use a command like this:
 
-    repo init -u git://github.com/MarshedOut/android.git -b android-6.0
+    repo init -u git://github.com/MarshedOut/android_manifest.git -b android-6.0
 
 Then to sync up:
 
