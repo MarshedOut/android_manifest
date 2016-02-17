@@ -22,7 +22,6 @@
            sync-j="4" />
 
 <!-- BEGIN TOOLCHAINS -->
-  <project path="prebuilts/clang/linux-x86/host/3.6" name="xanaxdroid/dragontc-3.6" groups="pdk,linux" clone-depth="1" remote="bb" revision="dragontc" />
   <project path="prebuilts/clang/linux-x86/host/3.7" name="xanaxdroid/dragontc-3.7" groups="pdk,linux" clone-depth="1" remote="bb" revision="dragontc" />
   <project path="prebuilts/clang/linux-x86/host/3.8" name="xanaxdroid/dragontc-3.8" groups="pdk,linux" clone-depth="1" remote="bb" revision="dragontc" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="xanaxdroid/arm-eabi-4.8" groups="pdk,linux,arm" clone-depth="1" remote="bb" revision="sabermod" />
