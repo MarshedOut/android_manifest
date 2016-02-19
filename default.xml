@@ -19,7 +19,7 @@
   <default revision="refs/heads/cm-13.0"
            remote="github"
            sync-c="true"
-           sync-j="4" />
+           sync-j="8" />
 
 <!-- BEGIN TOOLCHAINS -->
   <project path="prebuilts/clang/linux-x86/host/3.7" name="xanaxdroid/dragontc-3.7" groups="pdk,linux" clone-depth="1" remote="bb" revision="dragontc" />
