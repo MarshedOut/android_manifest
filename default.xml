@@ -43,6 +43,7 @@
   <project path="external/dhcpcd" name="MarshedOut/android_external_dhcpcd" groups="pdk-cw-fs,pdk-fs" remote="github" revision="android-6.0" />
   <project path="external/fdlibm" name="MarshedOut/android_external_fdlibm" groups="pdk" remote="github" revision="android-6.0" />
   <project path="external/freetype" name="MarshedOut/android_external_freetype" groups="pdk" remote="github" revision="android-6.0" />
+  <project path="external/libopus" name="MarshedOut/android_external_libopus" groups="pdk" remote="github" revision="android-6.0" />
   <project path="external/libpng" name="MarshedOut/android_external_libpng" groups="pdk" remote="github" revision="android-6.0" />
   <project path="external/llvm" name="MarshedOut/android_external_llvm" groups="pdk" remote="github" revision="android-6.0" />
   <project path="external/pdfium" name="MarshedOut/android_external_pdfium" groups="pdk" remote="github" revision="android-6.0" />
@@ -431,7 +432,6 @@
   <project path="external/libmtp" name="platform/external/libmtp" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libnl" name="platform/external/libnl" groups="pdk" remote="aosp" />
   <project path="external/libogg" name="platform/external/libogg" groups="pdk" remote="aosp" />
-  <project path="external/libopus" name="platform/external/libopus" groups="pdk" remote="aosp" />
   <project path="external/libpcap" name="platform/external/libpcap" groups="pdk,pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libphonenumber" name="platform/external/libphonenumber" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libseccomp-helper" name="platform/external/libseccomp-helper" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
