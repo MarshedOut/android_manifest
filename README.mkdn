@@ -13,4 +13,4 @@ To initialize your local repository using the MarshedOut trees, use a command li
 
 Then to sync up:
 
-    repo sync -j8 -f --force-sync
+    repo sync --force-sync
