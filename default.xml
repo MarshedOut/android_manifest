@@ -44,6 +44,7 @@
   <project path="external/dhcpcd" name="MarshedOut/android_external_dhcpcd" groups="pdk-cw-fs,pdk-fs" remote="github" revision="android-6.0" />
   <project path="external/fdlibm" name="MarshedOut/android_external_fdlibm" groups="pdk" remote="github" revision="android-6.0" />
   <project path="external/freetype" name="MarshedOut/android_external_freetype" groups="pdk" remote="github" revision="android-6.0" />
+  <project path="external/libcxxabi" name="MarshedOut/android_external_libcxxabi" groups="pdk" remote="github" revision="android-6.0" />
   <project path="external/libopus" name="MarshedOut/android_external_libopus" groups="pdk" remote="github" revision="android-6.0" />
   <project path="external/libpng" name="MarshedOut/android_external_libpng" groups="pdk" remote="github" revision="android-6.0" />
   <project path="external/llvm" name="MarshedOut/android_external_llvm" groups="pdk" remote="github" revision="android-6.0" />
@@ -422,7 +423,6 @@
   <project path="external/libavc" name="CyanogenMod/android_external_libavc" groups="pdk" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libcxx" name="platform/external/libcxx" groups="pdk" remote="aosp" />
-  <project path="external/libcxxabi" name="platform/external/libcxxabi" groups="pdk" remote="aosp" />
   <project path="external/libdrm" name="platform/external/libdrm" groups="pdk" remote="aosp" />
   <project path="external/libedit" name="platform/external/libedit" groups="pdk-fs" remote="aosp" />
   <project path="external/libexif" name="platform/external/libexif" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
